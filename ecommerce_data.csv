@@ -1,0 +1,170 @@
+order_id,customer_name,email,city,country,product_name,category,quantity,price,total_amount,order_date,status
+1,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+2,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+3,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+4,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+5,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+6,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+7,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+8,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+9,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+10,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+11,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+12,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+13,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+14,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+15,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+16,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+17,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+18,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+19,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+20,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+21,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+22,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+23,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+24,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+25,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+26,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+27,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+28,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+29,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+30,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+31,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+32,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+33,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+34,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+35,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+36,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+37,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+38,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+39,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+40,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+41,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+42,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+43,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+44,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+45,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+46,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+47,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+48,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+49,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+50,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+51,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+52,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+53,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+54,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+55,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+56,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+57,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+58,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+59,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+60,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+61,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+62,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+63,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+64,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+65,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+66,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+67,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+68,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+69,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+70,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+71,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+72,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+73,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+74,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+75,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+76,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+77,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+78,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+79,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+80,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+81,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+82,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+83,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+84,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+85,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+86,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+87,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+88,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+89,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+90,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+91,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+92,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+93,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+94,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+95,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+96,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+97,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+98,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+99,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+100,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+101,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+102,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+103,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+104,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+105,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+106,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+107,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+108,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+109,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+110,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+111,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+112,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+113,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+114,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+115,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+116,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+117,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+118,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+119,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+120,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+121,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+122,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+123,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+124,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+125,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+126,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+127,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+128,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+129,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+130,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+131,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+132,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+133,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+134,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+135,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+136,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+137,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+138,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+139,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+140,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+141,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+142,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+143,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+144,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+145,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+146,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+147,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+148,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+149,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+150,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+151,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+152,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+153,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+154,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+155,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+156,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+157,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+158,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+159,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+160,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+161,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+162,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+163,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+164,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+165,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+166,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
+167,Jane Smith,jane.smith@example.com,Los Angeles,USA,Smartphone,Electronics,2,500,1000,18-02-2025 14:12,Pending
+168,Alice Johnson,alice.johnson@example.com,Chicago,USA,Headphones,Electronics,1,50,50,05-03-2025 09:30,Completed
+169,John Doe,john.doe@example.com,New York,USA,Laptop,Electronics,1,800,800,15-01-2025 10:25,Completed
