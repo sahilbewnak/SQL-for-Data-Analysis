@@ -1,22 +1,17 @@
-SQL-Data-Analysis-Dashboard
-This is a personal project where I built an interactive dashboard using SQL and Streamlit. The project analyzes sample datasets simulating a sales platform, exploring customer behavior, sales trends, and revenue metrics.
+📦 E-commerce SQL Dashboard
+This personal project demonstrates how SQL and Streamlit can be used to analyze a complete e-commerce dataset. By exploring orders, customers, products, and sales, the dashboard turns raw data into actionable insights for decision-making and business growth.
 
 💡 What It Does
-
-Loads sales and customer data into an SQLite database
-
-Runs SQL queries to analyze revenue, top customers, and regional sales
-
-Visualizes results in a clean, interactive dashboard using Streamlit
+🗄️ Loads e-commerce data (customers, orders, products) into an SQLite database
+🧮 Runs SQL queries to calculate total sales, revenue, and key metrics
+📊 Analyzes customer behavior, top products, and regional trends
+🌐 Visualizes results interactively with Streamlit for real-time insights
 
 📊 Features
-
-Total Revenue (metric display)
-
-Orders by Region/Country (bar chart)
-
-Top 5 Customers by Spending (table)
-
-Sales Trends Over Time (line chart)
-
-Aggregated Metrics like Average Order Value and Total Orders
+💰 Total Revenue – Instant overview of sales performance
+🌍 Orders by Country/City – Bar chart visualization
+🏆 Top 5 Customers by Spending – Detailed table of loyal customers
+🛒 Top-Selling Products & Categories – Quick insight into product trends
+📈 Monthly/Quarterly Sales Trends – Line chart for temporal analysis
+📌 Order Status Overview – Pie chart of completed, pending, or canceled orders
+🔍 Filterable Insights – Drill down by product, category, customer, or date
